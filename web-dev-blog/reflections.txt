@@ -1,0 +1,8 @@
+1.What new skills have you learned?
+I have learned the basic html elements/tags,such as div, img, button and so on.
+What has been easy?
+I think the elements/tags are easy to remember.
+What has been difficult?
+To organise the tags correctly is difficult.It's easy to make mistakes. 
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+Yes, for some tags such as "figure", which I am not familiar with, I will search the Internet for answer.
